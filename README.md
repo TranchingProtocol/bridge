@@ -17,7 +17,9 @@ You should run the following commands from within the ethereum-bridge folder.
 via git
 ```
 git clone https://github.com/tidalchain/bridge.git
+
 cd bridge
+
 npm install
 ```
 
