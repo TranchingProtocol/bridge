@@ -1,0 +1,136 @@
+{
+    "Tranching": {
+        "Localnet": {
+            "chainId": "270",
+            "chainName": "Tranching Era Testnet",
+            "rpcUrls": [
+                "http://8.217.153.17:3050"
+            ],
+            "nativeCurrency": {
+                "name": "ETH",
+                "symbol": "ETH",
+                "decimals": 18
+            },
+            "blockExplorerUrls": [
+                "http://8.217.153.17:3010/"
+            ],
+            "iconUrls": ""
+        },
+        "Testnet": {
+            "chainId": "380",
+            "chainName": "Tranching Micro Testnet",
+            "rpcUrls": [
+                "https://rpc.testnet.tidalchain.com:4050"
+            ],
+            "nativeCurrency": {
+                "name": "zFIL",
+                "symbol": "zFIL",
+                "decimals": 18
+            },
+            "blockExplorerUrls": [
+                "https://testnetexplorer.tidalchain.com/"
+            ],
+            "iconUrls": ""
+        },
+        "Mainnet": {
+            "chainId": "381",
+            "chainName": "Tranching Micro Mainnet",
+            "rpcUrls": [
+                "https://rpc.mainnet.tidalchain.com/rpc/"
+            ],
+            "nativeCurrency": {
+                "name": "zFIL",
+                "symbol": "zFIL",
+                "decimals": 18
+            },
+            "blockExplorerUrls": [
+                "https://explorer.tidalchain.com/"
+            ],
+            "iconUrls": ""
+        }
+    },
+    "Filecoin": {
+        "Localnet": {
+            "chainId": "11155111",
+            "chainName": "Sepolia",
+            "rpcUrls": [
+                "https://sepolia.infura.io/v3/25fba67f3fc14709a3d0b547fab88974"
+            ],
+            "nativeCurrency": {
+                "name": "ETH",
+                "symbol": "ETH",
+                "decimals": 18
+            },
+            "blockExplorerUrls": [
+                "https://sepolia.etherscan.io"
+            ],
+            "iconUrls": ""
+        },
+        "Testnet": {
+            "chainId": "314159",
+            "chainName": "Filecoin - Calibration testnet",
+            "rpcUrls": [
+                "https://rpc.ankr.com/filecoin_testnet/9b9b7d41bef9db365d3ae7e3e97d7a2bef5107455282b2db5232f56553a86055"
+            ],
+            "nativeCurrency": {
+                "name": "tFIL",
+                "symbol": "tFIL",
+                "decimals": 18
+            },
+            "blockExplorerUrls": [
+                "https://calibration.filfox.info//en"
+            ],
+            "iconUrls": ""
+        },
+        "Mainnet": {
+            "chainId": "314",
+            "chainName": "Filecoin - Mainnet",
+            "rpcUrls": [
+                "https://api.node.glif.io"
+            ],
+            "nativeCurrency": {
+                "name": "FIL",
+                "symbol": "FIL",
+                "decimals": 18
+            },
+            "blockExplorerUrls": [
+                "https://filfox.info/en"
+            ],
+            "iconUrls": ""
+        }
+    },
+    "Ethereum": {
+        "Testnet": {
+            "chainId": "5",
+            "chainName": "Ethereum Goerli",
+            "rpcUrls": [
+                "https://rpc.ankr.com/eth_goerli"
+            ],
+            "nativeCurrency": {
+                "name": "ETH",
+                "symbol": "ETH",
+                "decimals": 18
+            },
+            "blockExplorerUrls": [
+                "https://goerli.etherscan.io"
+            ],
+            "iconUrls": ""
+        },
+        "Mainnet": {
+            "chainId": "1",
+            "chainName": "Ethereum Mainnet",
+            "rpcUrls": [
+                "https://eth.llamarpc.com"
+            ],
+            "nativeCurrency": {
+                "name": "ETH",
+                "symbol": "ETH",
+                "decimals": 18
+            },
+            "blockExplorerUrls": [
+                "https://etherscan.io"
+            ],
+            "iconUrls": ""
+        }
+    }
+}
