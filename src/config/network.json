@@ -81,22 +81,6 @@
                 "https://calibration.filfox.info//en"
             ],
             "iconUrls": ""
-        },
-        "Mainnet": {
-            "chainId": "314",
-            "chainName": "Filecoin - Mainnet",
-            "rpcUrls": [
-                "https://api.node.glif.io"
-            ],
-            "nativeCurrency": {
-                "name": "FIL",
-                "symbol": "FIL",
-                "decimals": 18
-            },
-            "blockExplorerUrls": [
-                "https://filfox.info/en"
-            ],
-            "iconUrls": ""
         }
     },
     "Ethereum": {

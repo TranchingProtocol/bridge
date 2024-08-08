@@ -24,7 +24,7 @@ export default defineConfig({
     css: {
         preprocessorOptions: {
             less: {
-                charset: false,
+                charset: true,
                 javascriptEnabled: true,
             },
         },

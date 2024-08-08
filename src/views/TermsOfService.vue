@@ -3,27 +3,27 @@
     <div class="container container-div" style="margin-bottom: 100px">
       <div class="title-div">Terms of Service</div>
       <div class="section-top">
-        <span>ZKAmoeba (“ZKAmoeba,” “we,” “us,” or
+        <span>Tranching (Tranching,” “we,” “us,” or
           “our”), currently provides a method of access to, and certain
-          information about, zkAmoeba network, a layer-2 protocol that
-          scales Filecoin (“zkAmoeba”) as well as related content and
-          functionality about zkAmoeba through websites located at </span><a href="https://www.zkamoeba.com/"
-          target="_blank">https://www.zkamoeba.com/</a><span>,</span><a href="https://explorer.zkamoeba.com/"
-          target="_blank">https://explorer.zkamoeba.com/</a><span>(each, a “Site” and collectively, the “Sites”). We also
-          currently provide access and information about zkAmoeba through
+          information about, tranching network, a layer-2 protocol that
+          scales Filecoin (tranching) as well as related content and
+          functionality about tranching through websites located at </span><a href="https://www.tranching.com/"
+          target="_blank">https://tranching.com/</a><span>,</span><a href="https://explorer.tranching.com/"
+          target="_blank">https://explorer.tranching.com/</a><span>(each, a “Site” and collectively, the “Sites”). We also
+          currently provide access and information about tranching through
           our related technologies, including all of our existing and any
           updated or new features, functionalities and technologies
           (collectively, the “Service”).</span>
       </div>
       <div class="section-top">
-        zkAmoeba and the suite of open-source code underlying it are
+        tranching and the suite of open-source code underlying it are
         contributed, used, and supported by a wide variety of
-        participants. ZKAmoeba is one of these many participants and
-        contributes to the zkAmoeba ecosystem. To facilitate the early-stage
-        development of the zkAmoeba ecosystem, ZKAmoeba currently operates
-        the Sites. ZKAmoeba expects to transition the maintenance and
+        participants. Tranching is one of these many participants and
+        contributes to the tranching ecosystem. To facilitate the early-stage
+        development of the tranching ecosystem, Tranching currently operates
+        the Sites. Tranching expects to transition the maintenance and
         operation of the Sites to one or more separate entities that are
-        part of the zkAmoeba community in due course.
+        part of the tranching community in due course.
       </div>
       <div class="section-top">
         These Website Terms and Conditions (these “Terms”) set forth the
@@ -46,7 +46,7 @@
         LIMITED EXCEPTIONS, REQUIRE DISPUTES BETWEEN YOU AND US TO BE
         SUBMITTED TO BINDING AND FINAL ARBITRATION. UNLESS YOU OPT OUT OF
         THE ARBITRATION AGREEMENT (A) YOU WILL ONLY BE PERMITTED TO PURSUE
-        CLAIMS AND SEEK RELIEF AGAINST ZKAMOEBA ON AN INDIVIDUAL BASIS,
+        CLAIMS AND SEEK RELIEF AGAINST ON AN INDIVIDUAL BASIS,
         NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE
         ACTION OR PROCEEDING, AND (B) YOU ARE AGREEING TO MANDATORY
         INDIVIDUAL ARBITRATION FOR THE RESOLUTION OF DISPUTES AND WAIVING
@@ -61,7 +61,7 @@
       <div class="section-top">
         <ul>
           <li>
-            EACH SITE IS PROVIDED BY ZKAMOEBA ON AN “AS-IS” BASIS, WITHOUT
+            EACH SITE IS PROVIDED BY Tranching ON AN “AS-IS” BASIS, WITHOUT
             WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING,
             WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY,
             FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR THAT
@@ -70,7 +70,7 @@
           </li>
           <li>
             We make no representation, warranty, guarantee, or undertaking
-            regarding zkAmoeba or any of its products, services, or
+            regarding tranching or any of its products, services, or
             activities, whether express or implied, including but not
             limited to warranties of compliance, accuracy, reliability,
             validity, merchantability, fitness for a particular purpose,
@@ -82,16 +82,16 @@
             We are not liable for, or in connection with, any actions,
             proceedings, claims, damages, expenses or other liabilities,
             whether in an action of contract, tort or otherwise, arising
-            from, related to or in connection with zkAmoeba or any of its
+            from, related to or in connection with tranching or any of its
             products, services, or activities, or the use or dealings in
             or with any of them or in reliance thereon.
           </li>
           <li>
-            We are not, do not speak for, and cannot bind, the zkAmoeba
-            community. The zkAmoeba community is a collection of
-            independent contributors to zkAmoeba. ZKAmoeba is a separate,
+            We are not, do not speak for, and cannot bind, the tranching
+            community. The tranching community is a collection of
+            independent contributors to tranching. Tranching is a separate,
             independent entity. While we currently contribute to the
-            zkAmoeba ecosystem, we do not speak for the community, and
+            tranching ecosystem, we do not speak for the community, and
             cannot contractually bind it in any manner.
           </li>
           <li>
@@ -238,7 +238,7 @@
           <li>
             Indemnification. To the fullest extent permitted by applicable
             laws, you agree to indemnify, defend and hold harmless
-            ZKAmoeba, as well as its affiliates and service providers, and
+            Tranching, as well as its affiliates and service providers, and
             each of their respective past, present and future officers,
             directors, members, employees, consultants, representatives
             and agents, and each of their respective successors and
@@ -540,7 +540,7 @@
       <div class="section-top">
         <span>Additional Terms for Bridge: Please note that your access
           to</span>
-        <a href="https://www.zkamoeba.com/en/bridge/" target="_blank">https://www.zkamoeba.com/en/bridge/</a>
+        <a href="https://tranching.com/en/bridge/" target="_blank">https://www.zkamoeba.com/en/bridge/</a>
         <span>(the “Interface”) and the use thereof is subject to these
           additional terms (the “Interface Terms”). If you do not agree to
           all of the Interface terms in their entirety, you may not use
