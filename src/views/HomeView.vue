@@ -5,8 +5,8 @@
       <section class="sign-in-container" v-if="store.wallet.state !== 'success'">
         <div>
           <!-- <div class="sign-in-logo-container">
-                        <img src="/wp-content/themes/webSystems/assets/build/img/logo.png" alt="ZKAmoeba" width="80" height="80" />
-                        <span>ZKAmoeba</span>
+                        <img src="/wp-content/themes/webSystems/assets/build/img/logo.png" alt="Tranching" width="80" height="80" />
+                        <span>Tranching</span>
                     </div> -->
           <p class="sign-in-underline">
             Your bridge to the future of crypto and DeFi powered with zero
@@ -161,7 +161,7 @@
                             d="M269.3 288.3V260h93.2c9.3 0 22.6 6.2 26.4 11.9l94.2 144.9c14 21 43.5 29.8 63.8 29.8h95.7V475l74.7 47 74.7-47v-94l-74.7-47-74.7 47v28.3h-95.8c-9.7 0-23.4-8-27.6-14.3l-93.9-146.9c-13.2-21.6-41.5-25.5-61.7-25.5h-94.4v-28.3l-74.7-47-74.7 47v94l74.7 47 74.8-47z m433.1 270.4v-37.3h-37.3v37.3h37.3z m-321.1-392H344V204h37.3v-37.3z m227.8 392h37.3v-37.3h-37.3v37.3zM680 288.3V260h108.2v-37.3H680v-28.3l-74.7-47-74.7 47v94l74.7 47 74.7-47.1z m168-65.6h-40.3V260H848v-37.3z m-448 121l-74.7-47-74.7 47v94l74.7 47 74.7-47v-94z m93.3-177H456V204h37.3v-37.3z m-56 0H400V204h37.3v-37.3z m321.1 392v-37.3h-37.3v37.3h37.3zM530.7 857.3h56V820h-56v37.3z m-56 0H512V820h-37.3v37.3zM624 735.7v94l74.7 47 74.7-47v-94l-74.7-47-74.7 47zM885.3 502l-74.7 47v28.3h-95c-21.3 0-50.3 7.4-63.9 27.8l-94 140.8c-4.6 6.8-18.4 18.1-26.5 18.1H381.3v-28.3l-74.7-47-74.7 47v94l74.7 47 74.7-47v-28.3h151.2c20.8 0 48.6-9.2 61.5-30.3l94-144.5c3.2-4.8 14.6-12 27.6-12h95V643l74.7 47 74.7-47v-94l-74.7-47zM418.7 857.3H456V820h-37.3v37.3zM233.9 558.7h37.3v-37.3h-37.3v37.3z m56 0h37.3v-37.3h-37.3v37.3zM400 643l74.7 47 74.7-47v-94l-74.7-47-74.7 47v28.3H213.3V549l-74.7-47-63 39.7L64 549v94l74.7 47 74.7-47v-28.3H400V643z m-16.8-84.3v-37.3h-37.3v37.3h37.3z"
                             fill="#2c2c2c" />
                         </svg>
-                        ZKAmoeba Micro
+                        Tranching
                       </label>
                     </div>
                     <div class="balance-field-token-dropdown">
@@ -262,7 +262,7 @@
                           d="M269.3 288.3V260h93.2c9.3 0 22.6 6.2 26.4 11.9l94.2 144.9c14 21 43.5 29.8 63.8 29.8h95.7V475l74.7 47 74.7-47v-94l-74.7-47-74.7 47v28.3h-95.8c-9.7 0-23.4-8-27.6-14.3l-93.9-146.9c-13.2-21.6-41.5-25.5-61.7-25.5h-94.4v-28.3l-74.7-47-74.7 47v94l74.7 47 74.8-47z m433.1 270.4v-37.3h-37.3v37.3h37.3z m-321.1-392H344V204h37.3v-37.3z m227.8 392h37.3v-37.3h-37.3v37.3zM680 288.3V260h108.2v-37.3H680v-28.3l-74.7-47-74.7 47v94l74.7 47 74.7-47.1z m168-65.6h-40.3V260H848v-37.3z m-448 121l-74.7-47-74.7 47v94l74.7 47 74.7-47v-94z m93.3-177H456V204h37.3v-37.3z m-56 0H400V204h37.3v-37.3z m321.1 392v-37.3h-37.3v37.3h37.3zM530.7 857.3h56V820h-56v37.3z m-56 0H512V820h-37.3v37.3zM624 735.7v94l74.7 47 74.7-47v-94l-74.7-47-74.7 47zM885.3 502l-74.7 47v28.3h-95c-21.3 0-50.3 7.4-63.9 27.8l-94 140.8c-4.6 6.8-18.4 18.1-26.5 18.1H381.3v-28.3l-74.7-47-74.7 47v94l74.7 47 74.7-47v-28.3h151.2c20.8 0 48.6-9.2 61.5-30.3l94-144.5c3.2-4.8 14.6-12 27.6-12h95V643l74.7 47 74.7-47v-94l-74.7-47zM418.7 857.3H456V820h-37.3v37.3zM233.9 558.7h37.3v-37.3h-37.3v37.3z m56 0h37.3v-37.3h-37.3v37.3zM400 643l74.7 47 74.7-47v-94l-74.7-47-74.7 47v28.3H213.3V549l-74.7-47-63 39.7L64 549v94l74.7 47 74.7-47v-28.3H400V643z m-16.8-84.3v-37.3h-37.3v37.3h37.3z"
                           fill="#2c2c2c" />
                       </svg>
-                      ZKAmoeba Micro</label>
+                      Tranching</label>
                   </div>
                   <div class="balance-field-token-dropdown">
                     <button type="button" tabindex="0" class="option-button">
@@ -409,7 +409,7 @@
                     <div class="description">
                       <p class="max-h-20 overflow-auto break-words first-letter:capitalize">
                         In order to ensure the security of the protocol, there will be some delays in withdrawals from
-                        ZKAmoeba Micro (L2) to ETH (L1).
+                        Tranching Protocol (L2) to ETH (L1).
                       </p>
                     </div>
                   </div>
